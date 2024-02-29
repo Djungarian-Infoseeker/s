@@ -1,39 +1,40 @@
 ---
 title: 王胤杰
-role: Professor of Artificial Intelligence
+role: Undergraduate Student of Oceanography
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atmospheric and Oceanic Dynamics
+  - Planetary Atmosphere
+  - Complexity Science
+  - Geographic information science
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:wangyinjie@tongji.edu.cn
+  - icon: record-vinyl
+    icon_pack: fa
+    link: https://y.music.163.com/m/user?id=55809030
+    label: null
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+    link: https://github.com/Djungarian-Infoseeker
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/8366216
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Oceanography
+      institution: Tongji University,Shanghai
+      year: 2021-now
+    - course: High School Student
+      institution: Yangquan No.1 High School,Yangquan
+      year: 2017-2020
+organizations:
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 superuser: true
 user_groups:
   - Researchers
@@ -42,7 +43,4 @@ highlight_name: false
 first_name: Nelson
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a third-year undergraduate student in the Department of Marine Science at Tongji University. Through a long process of self-discovery, I've found that I have a strong interest in the dynamic development of certain systems and a keen ability to unearth hidden information. Consequently, I've adopted a new online moniker, "Infoseeker". In my daily life, I enjoy making videos, particularly those involving special effects and 3D modeling. Additionally, I have a long-standing hobby that dates back to my childhood: cultivating plants, especially those from the Nymphaeaceae family (water lilies), and listening to music.
