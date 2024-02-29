@@ -12,7 +12,7 @@ sections:
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
       # Contact (add or remove contact options as necessary)
       email: wangyinjie@tongji.edu.cn
-      phone: 888 888 88 88
+      #phone: 888 888 88 88
       address:
         street: 1239 Siping Road
         city: Yangpu District
@@ -29,7 +29,7 @@ sections:
         latitude: '31.284906919181495'
         longitude: '121.50147636149214'  
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
