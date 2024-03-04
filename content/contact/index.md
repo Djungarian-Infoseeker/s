@@ -28,7 +28,7 @@ sections:
       coordinates:
         latitude: '31.284906919181495'
         longitude: '121.50147636149214'  
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Ocean Building
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
