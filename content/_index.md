@@ -34,9 +34,7 @@ sections:
 #   design:
 #     view: card
 #     columns: '1'
-type: landing
 
-sections:
   - block: slider
     content:
       slides:
