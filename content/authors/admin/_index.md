@@ -92,12 +92,12 @@ skills:
         percent: 60
         icon: spa
         icon_pack: fas
-#superuser: false
-#user_groups:
-#  - Researchers
-#last_name: Bighetti
-#highlight_name: false
-#first_name: Nelson
-#email: ""
+superuser: false
+user_groups:
+  - Researchers
+last_name: Bighetti
+highlight_name: false
+first_name: Nelson
+email: ""
 ---
 I am a third-year undergraduate student in the Department of Marine Science at Tongji University. Through a long process of self-discovery, I've found that I have a strong interest in the dynamic development of certain systems and a keen ability to unearth hidden information. Consequently, I've adopted a new online moniker, "Infoseeker". In my daily life, I enjoy making videos, particularly those involving special effects and 3D modeling. Additionally, I have a long-standing hobby that dates back to my childhood: cultivating plants, especially those from the Nymphaeaceae family (water lilies), and listening to music!
