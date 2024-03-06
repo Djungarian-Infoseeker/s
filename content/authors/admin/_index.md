@@ -35,26 +35,15 @@ education:
 organizations:
   - name: Tongji University
     url: https://www.tongji.edu.cn/
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
 email: ""
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-
+experience:
+  items:
         - title: 2023 Comprehensive Scientific Research Voyage on the Key Processes-to-Products in the Yangtze River-Estuary-East China Sea Continuum
           company: State Key Laboratory of Marine Geology,Tongji University
           company_url: ''
