@@ -4,9 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
+
   - name: People
     url: people
     weight: 30
@@ -25,4 +23,4 @@ main:
     weight: 60
   - name: Album
     url: album
-    weight: 60
+    weight: 70
