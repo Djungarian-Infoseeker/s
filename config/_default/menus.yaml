@@ -5,9 +5,9 @@
 
 main:
 
-  - name: People
+  - name: About Me
     url: people
-    weight: 30
+    weight: 10
   - name: News
     url: post
     weight: 20
