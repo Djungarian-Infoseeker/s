@@ -81,7 +81,16 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  
+      
+    - block: markdown
+      content:
+      title: My Waterlily Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+
+      design:
+        columns: '1'
 
   
   - block: markdown
